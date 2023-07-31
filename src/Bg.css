@@ -5,8 +5,9 @@
     margin-top:150px;
     border-radius: 8px;
     box-shadow: 1px 1px 10px black;
-    background-color: gray;
+    background-color: #222A34;
 }
+
 
 .header_text{
     color: white;
@@ -16,12 +17,13 @@
     float: right;
     margin-right: 25px;
     margin-top: 25px;
+
 }
 
 .header_btn{
     background-image: url('./assets/Upload.png');
     float: left;
-    background-color: cornflowerblue;
+    background-color:  #475366;
     margin-top: -50px;
     margin-left: 25px;
     border: none;
@@ -31,5 +33,6 @@
     padding-left: 29px;
     background-repeat: no-repeat;
     background-position: 10px;
-    color: white;
+    font-family: 'Aduma';
+    color:white;
 }
